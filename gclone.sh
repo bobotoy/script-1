@@ -23,7 +23,7 @@ case $OSARCH in
     i*86)
         BINTAG=Linux_i386
         ;;
-    aarch4)
+    aarch64)
         BINTAG=Linux_x86_64
         ;;
     arm*)
